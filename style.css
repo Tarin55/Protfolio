@@ -10,7 +10,7 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('images/hijab3.jpg');
+    background: url('./images/hijab3.jpg');
     background-size:contain;
     position:relative;
     padding: 0;
